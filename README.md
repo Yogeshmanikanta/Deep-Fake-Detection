@@ -11,3 +11,9 @@ The Deep Fake Detection project is aimed at identifying and mitigating the effec
 - **Model Training**: Provides scripts and tools to train detection models on labeled datasets.
 - **Pre-trained Models**: Includes pre-trained models for immediate deployment and testing.
 
+
+![Screenshot 2024-03-23 132231](https://github.com/Yogeshmanikanta/Deep-Fake-Detection/assets/169232131/b590ddc9-7886-48f5-8376-4f7d98358279)
+
+
+![Screenshot 2024-03-26 130442](https://github.com/Yogeshmanikanta/Deep-Fake-Detection/assets/169232131/01986b53-bc1b-41cf-a20b-c95345fd0e17)
+
